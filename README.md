@@ -16,7 +16,11 @@
     6.R&D expenses are greater than the median of the primary industry
     7.Capital expenditure is greater than the median of the primary industry
     8.Advertising costs are greater than the median of the primary industry
-  
+
+The figure below is a comparison of the backtest net value of different groups.
 ![image](https://user-images.githubusercontent.com/80148045/111408658-90976700-8710-11eb-9fb1-8c47b0756760.png)
 
 ![image](https://user-images.githubusercontent.com/80148045/111404436-b8cf9780-8709-11eb-8d2a-f1993043b8cb.png)
+The stock portfolio income is stable. Even in this pessimistic market environment after the Lunar New Year, a positive return of 4% was achieved.
+
+![image](https://user-images.githubusercontent.com/80148045/111409341-ba9d5900-8711-11eb-8c1a-f1e007f1837d.png)
