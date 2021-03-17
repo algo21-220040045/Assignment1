@@ -4,6 +4,7 @@
   The idea of the strategy:
   Use 8 standards related to fundamental indicators. If a stock meets this standard, one point is added, otherwise no point is added.
   In this way, at each time when the position is exchanged, the stock will be divided into 9 groups, each with a score of 0-8.
+  The weighting method of the strategy is equal weight.
   Then select stocks with scores of 6, 7, and 8 to buy and hold.
   The time points for swapping positions are the end of April, the end of August and the end of October. Respectively correspond to the deadline for the financial statement announcement.  
   Index category Judgment condition：
@@ -16,5 +17,6 @@
     7.Capital expenditure is greater than the median of the primary industry
     8.Advertising costs are greater than the median of the primary industry
   
-  
+![image](https://user-images.githubusercontent.com/80148045/111408658-90976700-8710-11eb-9fb1-8c47b0756760.png)
+
 ![image](https://user-images.githubusercontent.com/80148045/111404436-b8cf9780-8709-11eb-8d2a-f1993043b8cb.png)
